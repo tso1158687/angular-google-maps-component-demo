@@ -1,27 +1,4 @@
-# AngularGoogleMapsComponentDemo
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# 示範如何使用Angular Google Maps Component
+參考文章:
+[Angular 如何整合 Google Maps — 比較篇](https://medium.com/jason-read-code/angular-%E5%A6%82%E4%BD%95%E6%95%B4%E5%90%88-google-maps-%E6%AF%94%E8%BC%83%E7%AF%87-8dac53f97b9)
+[Angular 如何整合 Google Maps 設定篇](https://medium.com/jason-read-code/angular-%E5%A6%82%E4%BD%95%E6%95%B4%E5%90%88-google-maps-%E8%A8%AD%E5%AE%9A%E7%AF%87-1a83290ef71b)

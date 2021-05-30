@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  mapKey:'你的google maps金鑰'
 };
